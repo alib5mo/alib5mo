@@ -18,10 +18,6 @@
 
 <h2 align="left">🚀 Flutter Developer</h2>
 
-##
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer+)](https://git.io/typing-svg)
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
