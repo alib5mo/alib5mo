@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">🚀 Flutter Developer</h2>
+<h2 align="center">🚀 Flutter Developer</h2>
 
 ###
 
